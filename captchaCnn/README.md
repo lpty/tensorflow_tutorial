@@ -10,4 +10,4 @@
   python captcha_cnn.py
   
  # 其他
- 有空再把详细步骤写出来
+ 博客：http://blog.csdn.net/sinat_33741547/article/details/77510656
