@@ -5,7 +5,12 @@ tensorflow的一些练习demo
 * RNNmnist训练集识别
 * RNN古诗词生成模型
 * GANmnist训练集图片生成
+* DCGAN动漫头像生成
+
 # 历史版本
+## 2017.09.06
+* 增加DCGAN动漫头像生成
+
 ## 2017.08.31
 * 增加GANmnist训练集图片生成
 
