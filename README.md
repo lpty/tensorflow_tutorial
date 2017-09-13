@@ -1,4 +1,4 @@
-# 前言
+﻿# 前言
 tensorflow的一些练习demo
 # 目录
 * CNN验证码识别
@@ -6,8 +6,12 @@ tensorflow的一些练习demo
 * RNN古诗词生成模型
 * GANmnist训练集图片生成
 * DCGAN动漫头像生成
+* Skip-Gram的Word2Vec生成
 
 # 历史版本
+## 2017.09.13
+* 增加Skip-Gram的Word2Vec生成
+
 ## 2017.09.06
 * 增加DCGAN动漫头像生成
 
