@@ -7,8 +7,12 @@ tensorflow的一些练习demo
 * GANmnist训练集图片生成
 * DCGAN动漫头像生成
 * Skip-Gram的Word2Vec生成
+* Skip-Thought-Vector的Sentence2Vec网络
 
 # 历史版本
+## 2017.09.26
+* 增加Skip-Thought-Vector的Sentence2Vec网络
+
 ## 2017.09.13
 * 增加Skip-Gram的Word2Vec生成
 
