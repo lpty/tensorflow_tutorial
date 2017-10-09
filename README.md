@@ -10,6 +10,9 @@ tensorflow的一些练习demo
 * Skip-Thought-Vector的Sentence2Vec网络
 
 # 历史版本
+## 2017.10.09
+* 暂停，思考一下人生
+
 ## 2017.09.26
 * 增加Skip-Thought-Vector的Sentence2Vec网络
 
