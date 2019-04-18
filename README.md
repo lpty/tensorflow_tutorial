@@ -8,8 +8,12 @@ tensorflow的一些练习demo
 * DCGAN动漫头像生成
 * Skip-Gram的Word2Vec生成
 * Skip-Thought-Vector的Sentence2Vec网络
+* SiameseCBOW模型
 
 # 历史版本
+## 2019.04.18
+* 增加SiameseCBOW模型
+
 ## 2017.10.09
 * 暂停，思考一下人生
 
